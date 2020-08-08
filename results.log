@@ -1,0 +1,10 @@
+Create array of stringified objects: 6.296s
+SHA1: 6.882s
+MD5: 4.467s
+XXHash 64: 3.579s
+XXH3: 5.257s
+murmurhash-native 32: 1.131s
+murmurhash-native 64: 702.109ms
+murmurhash-native 128: 734.762ms
+FarmHash hash64: 2.329s
+FarmHash fingerprint64: 2.370s
